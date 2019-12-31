@@ -10,8 +10,6 @@ An Android application that includes the following features:
 ### App Walk-though
 <img src="https://s5.gifyu.com/images/democ440ed44bb9a2d4e.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
 - [X] 2. User see's custom background color.
