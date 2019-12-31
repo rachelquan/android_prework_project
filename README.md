@@ -8,7 +8,7 @@ An Android application that includes the following features:
 - Reset what you have changed back to the default settings by clicking anything on the background.
 
 ### App Walk-though
-<img src="https://s5.gifyu.com/images/democ440ed44bb9a2d4e.gif" width=200><br>
+<img src="https://i.imgur.com/4twdgM7.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
